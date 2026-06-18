@@ -1,0 +1,12 @@
+[project]
+name = "voice-to-text-ai"
+version = "0.1.0"
+description = "NVIDIA-powered speech to text converter with Gradio UI"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "python-dotenv>=1.1.0",
+    "gradio>=6.0.0",
+    "nvidia-riva-client>=2.26.0",
+    "numpy>=1.26.0",
+]
