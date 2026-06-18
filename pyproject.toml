@@ -1,7 +1,7 @@
 [project]
 name = "voice-to-text-ai"
 version = "0.1.0"
-description = "NVIDIA-powered speech to text converter with Gradio UI"
+description = "Speech to text converter with Gradio UI (whisper-large-v3 via NVIDIA API)"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
